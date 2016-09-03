@@ -17,7 +17,7 @@
     <link rel="icon" type="image/png" href="<?php bloginfo('template_directory'); ?>/img/favicon-16x16.png" sizes="16x16">
     <link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
-
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/default.min.css">
 	<?php wp_head(); ?>
 </head>
 
