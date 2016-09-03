@@ -1,8 +1,8 @@
 {
-  "name": "materialwp",
-  "homepage": "https://github.com/braginteractive/materialwp",
+  "name": "trux-materialwp",
+  "homepage": "https://github.com/davetrux/trux-materialwp",
   "authors": [
-    "Brad Williams <braginteractive@gmail.com>"
+    "David Truxall <david@davidtruxall.com>"
   ],
   "description": "",
   "main": "",
