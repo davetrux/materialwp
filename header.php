@@ -22,6 +22,7 @@
 </head>
 
 <body <?php body_class(); ?>>
+<?php include_once("inc/analyticstracking.php") ?>
 <div id="page" class="hfeed site">
 	<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'materialwp' ); ?></a>
 
